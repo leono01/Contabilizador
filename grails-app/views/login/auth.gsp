@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Log In</title>
+        <title>Ingreso al Sistema</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Headings -->
@@ -66,7 +66,7 @@
                         <img src="images/avatars/suggebig.jpg" alt="SuggeElson" class="img-responsive">
                     </div>
                     <div class="page-header">
-                        <h3 class="center">Please login</h3>
+                        <h3 class="center">Por favor, escriba los datos de su cuenta que se le proporcionó</h3>
                     </div>
                     <form id="login-form" class="form-horizontal" action="${postUrl}" method="POST" autocomplete="false">
                         <div class="row">
@@ -97,7 +97,7 @@
                         </div><!-- End .row-fluid  -->
                     </form>
                     <p class="center">Don`t have an account? <a href="#" id="register"><strong>Create one now</strong></a></p>
-                    <div class="or center"><strong>or</strong></div>
+                    <div class="center"><strong>or</strong></div>
                     <hr class="seperator">
                     <a href="#" class="btn btn-primary pull-left"><i class="icon16 i-facebook gap-left0"></i> Connect</a>
                     <a href="#" class="btn btn-info pull-right"><i class="icon16 i-twitter gap-left0"></i> Connect</a>
